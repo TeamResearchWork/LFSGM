@@ -4,4 +4,8 @@ Codes for LFSRM model and Diagram-sentence Matching Dataset AI2D#
 
 ## AI2D#
 This newly proposed dataset is developed by ourselves to support the novel research on *diagram-sentence* matching. Thanks to Kembhavi A, Salvato M, Kolve E, et al for offering the original AI2D dataset designed for diagram understanding and TQA tasks.   
-For details of AI2D#, we choose 1,400 diagrams that represent topics in primary school natural sciences, such as life cycles, food webs and circuits from AI2D. Each diagram is assigned to five sentences to describe its global or local content. We split AI2D# into 1,000 diagrams and 400 diagrams for training and testing, respectively.
+For details of AI2D#, we choose 1,400 diagrams that represent topics in primary school natural sciences, such as life cycles, food webs and circuits from AI2D. Each diagram is assigned to five sentences to describe its global or local content. We split AI2D# into 1,000 diagrams and 400 diagrams for training and testing, respectively. 
+ 
+You can click on the link below to download the AI2D# from aliyun drive: 
+https://www.aliyundrive.com/s/6d7mLHLFck8 
+*NOTES:* For easier use, AI2D# dataset is now undergoing careful cleaning and format standardizing. We first offer the original diagrams that AI2D# includes for better understanding the diagram-sentence matching task. The full AI2D# dataset, including the annotation and work details, will be released before 15/12/2021.
