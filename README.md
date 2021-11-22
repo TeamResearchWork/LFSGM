@@ -12,7 +12,7 @@ https://www.aliyundrive.com/s/6d7mLHLFck8
 
 For convenience, here we list 3 examples from AI2D# dataset：
  
-![image](https://z3.ax1x.com/2021/11/22/IzlbE4.png?raw=true)
+![image](https://z3.ax1x.com/2021/11/22/IzlbE4.md.png?raw=true)
 The five corresponding captions:
  
 *NOTES:* For easier use, AI2D# dataset is now undergoing careful cleaning and format standardizing. We first offer the original diagrams that AI2D# includes for better understanding the diagram-sentence matching task. The full AI2D# dataset, including the annotation and work details, will be released before 15/12/2021.
