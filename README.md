@@ -14,7 +14,7 @@ For convenience, here we list 3 diagram examples from AI2D# dataset along with 5
  
 Name | 1 | 2 | 3
 ---- | ---- | ---- | ----
-**diagrams** | <img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzJvn0.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzaHQH.png" height="240px" width="260px">
+**diagrams** | <img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzJvn0.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzaHQH.png" height="220px" width="260px">
 **caption1** | The deeper layers of the soil contain more water. |  Green plants is the producer. | The ribs are on the outside of the lungs.
 **caption2** | The flower cannot realize photosynthesis. | Rabbits and goats will lose their source of energy, if the trees are burnt down in a forest fire. | The heart is between two lungs.
 **caption3** | More carbon dioxide is better for the plant's growth. | Lion consumes jackals as a food energy source. | The intercostal muscles are connected with ribs.
