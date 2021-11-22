@@ -12,7 +12,8 @@ https://www.aliyundrive.com/s/6d7mLHLFck8
 
 For convenience, here we list 3 examples from AI2D# dataset：
  
-<img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" width="300px"> | <img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" width="300px"> | <img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" width="300px">
+<img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzJvn0.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/Izt3iF.png" height="220px" width="260px">
+---- | ---- | ----
  
 The five corresponding captions:
  
