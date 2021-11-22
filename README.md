@@ -10,16 +10,16 @@ You can click on the link below to download the AI2D# from aliyun drive:
  
 https://www.aliyundrive.com/s/6d7mLHLFck8
 
-For convenience, here we list 3 examples from AI2D# dataset：
+For convenience, here we list 3 diagram examples from AI2D# dataset along with 5 captions for each：
  
 Name | 1 | 2 | 3
 ---- | ---- | ---- | ----
-images | <img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzJvn0.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzUXPU.png" height="260px" width="220px">
-caption1 | The deeper layers of the soil contain more water. |  Green plants is the producer. | The roots are usually found underground.
-caption2 | The flower cannot realize photosynthesis. | Rabbits and goats will lose their source of energy, if the trees are burnt down in a forest fire. | There is a bud on the stem.
-caption3 | More carbon dioxide is better for the plant's growth. | Lion consumes jackals as a food energy source. | There are 4 leaves under the flower and above the roots.
-caption4 | Glucose is also a production of the photosynthesis. | Snakes consume mouse. | The leaves becomes brown.
-caption5 | Carbon dioxide is a part of the material for the photosynthesis. | If the green plants decreased, goats decrease. | The color of the flower is yellow.
+**diagrams** | <img src="https://z3.ax1x.com/2021/11/22/IzlbE4.md.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzJvn0.png" height="220px" width="260px"> | <img src="https://z3.ax1x.com/2021/11/22/IzaHQH.png" height="260px" width="240px">
+**caption1** | The deeper layers of the soil contain more water. |  Green plants is the producer. | The ribs are on the outside of the lungs.
+**caption2** | The flower cannot realize photosynthesis. | Rabbits and goats will lose their source of energy, if the trees are burnt down in a forest fire. | The heart is between two lungs.
+**caption3** | More carbon dioxide is better for the plant's growth. | Lion consumes jackals as a food energy source. | The intercostal muscles are connected with ribs.
+**caption4** | Glucose is also a production of the photosynthesis. | Snakes consume mouse. | The thoracic cavity is just outside around the lungs.
+**caption5** | Carbon dioxide is a part of the material for the photosynthesis. | If the green plants decreased, goats decrease. | Respiratory centers are the breath controller.
  
 *NOTES:* For easier use, AI2D# dataset is now undergoing careful cleaning and format standardizing. We first offer the original diagrams that AI2D# includes for better understanding the diagram-sentence matching task. The full AI2D# dataset, including the annotation and work details, will be released before 15/12/2021.
 
