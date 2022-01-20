@@ -23,7 +23,7 @@ Name | 1 | 2 | 3
 **caption4** | Glucose is also a production of the photosynthesis. | Snakes consume mouse. | The thoracic cavity is just outside around the lungs.
 **caption5** | Carbon dioxide is a part of the material for the photosynthesis. | If the green plants decreased, goats decrease. | Respiratory centers are the breath controller.
  
-*NOTES:* For easier use, AI2D# dataset is now undergoing careful cleaning and format standardizing. We first offer the original diagrams that AI2D# includes for better understanding the diagram-sentence matching task. The full AI2D# dataset, including the annotation and work details, will be released before 15/01/2022.
+*NOTES:* For easier use, AI2D# dataset is now undergoing careful cleaning and format standardizing. We first offer the original diagrams that AI2D# includes for better understanding the diagram-sentence matching task. The full AI2D# dataset, including the annotation and work details, will be released before 15/02/2022.
 
 ## Codes
 The codes for LFSRM is put in the directory 'codes', incuding *model.py* and *train.py*. In *model.py*, we have realized the whole LFSRM model which includes: **1)** the local-feedback self-regulating memory module for storing the useful multi-modal information, especially uncommon ones and **2)** attention mechanism on local fragments and strengthening measures on sentence-to-diagram alignment direction. These two effectively overcome the serious few-shot content problem and incomplete description problem in diagrams, respectively. In *train.py*, we showed how we trained the model. More detailed codes with comments and explanations are on the way.
