@@ -12,6 +12,7 @@ import tensorboard_logger as tb_logger
 import argparse
 from vsrn_evaluation import evalrank
 
+# key codes will be uploaded soon after acception
 
 class AverageMeter(object):
 
