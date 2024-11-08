@@ -10,6 +10,7 @@ from torch.nn.utils.clip_grad import clip_grad_norm
 import numpy as np
 from collections import OrderedDict
 
+# key codes will be uploaded soon after acception
 
 def l2norm(X, dim=1):
     norm = torch.pow(X, 2).sum(dim=dim, keepdim=True).sqrt()
